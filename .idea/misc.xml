@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Git Hub Alex/UAS_ALEX_18411005/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/Git Hub Alex/UAS_ALEX_18411005/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Git Hub Alex/UAS_ALEX_18411005/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Git Hub Alex/UAS_ALEX_18411005/app/src/main/res/layout/item_image.xml" value="0.25" />
+        <entry key="..\:/MATA KULIAH/MOBILE COMPUTING/MobileComputingPraktek/2022/Modul 7/Project/app/src/main/res/drawable/background.xml" value="0.1655" />
+        <entry key="..\:/MATA KULIAH/MOBILE COMPUTING/MobileComputingPraktek/2022/Modul 7/Project/app/src/main/res/layout/activity_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/MATA KULIAH/MOBILE COMPUTING/MobileComputingPraktek/2022/Modul 7/Project/app/src/main/res/layout/activity_login.xml" value="0.24010416666666667" />
+        <entry key="..\:/MATA KULIAH/MOBILE COMPUTING/MobileComputingPraktek/2022/Modul 7/Project/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/MATA KULIAH/MOBILE COMPUTING/MobileComputingPraktek/2022/Modul 7/Project/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/MATA KULIAH/MOBILE COMPUTING/MobileComputingPraktek/2022/Modul 7/Project/app/src/main/res/layout/item_image.xml" value="0.25416666666666665" />
+        <entry key="..\:/MATA KULIAH/MOBILE COMPUTING/NGULANG/TUGAS/UAS_ALEX_18411005/app/src/main/res/layout/activity_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/MATA KULIAH/MOBILE COMPUTING/NGULANG/TUGAS/UAS_ALEX_18411005/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/MATA KULIAH/MOBILE COMPUTING/NGULANG/TUGAS/UAS_ALEX_18411005/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/MATA KULIAH/MOBILE COMPUTING/NGULANG/TUGAS/UAS_ALEX_18411005/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/MATA KULIAH/MOBILE COMPUTING/NGULANG/TUGAS/UAS_ALEX_18411005/app/src/main/res/layout/item_image.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
